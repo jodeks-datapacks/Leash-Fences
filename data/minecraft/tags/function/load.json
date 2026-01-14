@@ -1,0 +1,6 @@
+{
+  "values": [
+    "leashfences:app/setup",
+    "leashfences:app/load_message"
+  ]
+}
