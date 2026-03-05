@@ -16,7 +16,7 @@ function leashfences:image/set_image_data {\
     "Leash Fences",\
     {text: "Easily connect fences using Leads", color: "#aaaaaa"},\
     "",\
-    [{text: "Datapack version: ", color: "#00a800"}, {text: "v1.0.0", color: "#54fc54"}],\
+    [{text: "Datapack version: ", color: "#00a800"}, {text: "v1.1.0", color: "#54fc54"}],\
     [{text: "Game version: ", color: "#00a800"}, {text: "1.21.6+", color: "#54fc54"}],\
     "",\
     [{text: "By ", color: "#fcfcfc"}, {text: "Jodek", color: "#fcfc54"}],\

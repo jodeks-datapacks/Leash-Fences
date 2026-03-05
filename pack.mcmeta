@@ -19,7 +19,7 @@
         "text": "Version "
       },
       {
-        "text": "1.0.0",
+        "text": "1.1.0",
         "color": "#55ff55"
       },
       {
@@ -36,6 +36,15 @@
       {
         "text": "Jodek",
         "color": "#ffff55"
+      }
+    ]
+  },
+  "overlays": {
+    "entries": [
+      {
+        "directory": "overlay-88",
+        "min_format": 88,
+        "max_format": 999
       }
     ]
   }
