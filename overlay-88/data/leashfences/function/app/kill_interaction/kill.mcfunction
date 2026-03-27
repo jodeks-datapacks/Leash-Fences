@@ -1,1 +1,0 @@
-$execute as @e[type=interaction,tag=leashfences.interaction,nbt={data:{player_UUID:$(UUID)}}] run kill @s

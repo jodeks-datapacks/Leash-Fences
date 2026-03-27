@@ -1,6 +1,6 @@
 {
   "values": [
-    "leashfences:app/setup",
-    "leashfences:app/load_message"
+    "leash_fences:app/setup",
+    "leash_fences:app/load_message"
   ]
 }

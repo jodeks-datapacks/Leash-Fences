@@ -1,0 +1,3 @@
+$execute align xyz positioned ~0.50001 ~0.495 ~0.5 run summon parrot ~ ~ ~ {DeathLootTable:"",NoGravity:1b,Silent:1b,Invulnerable:1b,PersistenceRequired:1b,NoAI:1b,CanPickUpLoot:0b,Tags:["leash_fences.dummy_leash_entity","leash_fences.dummy_leash_entity_new"],active_effects:[{id:"minecraft:invisibility",amplifier:0,duration:-1,show_particles:0b}],attributes:[{id:"minecraft:scale",base:0.3}],leash:{UUID:$(UUID)}}
+
+scoreboard players add &leashed_entities leash_fences.check 1
