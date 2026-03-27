@@ -1,21 +1,18 @@
-# Leash Fences
-
-<div style="display: flex; gap: 20px;">
-<a href="https://ko-fi.com/H2H011LYHJ"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi"/></a>
+<div align="center">
   
-<a href="https://github.com/sponsors/Jodekq" target="_blank">
-  <img src="https://img.shields.io/badge/Sponsor-Jodek-green?style=for-the-badge&logo=github&logoWidth=20" alt="Sponsor @Jodek" />
-</a>
+![minecraft datapack leash fences power lines minecraft mod](https://cdn.modrinth.com/data/cached_images/501cd60bd3f700c955487e0caf303a2df8173cef.png)
+
 </div>
 
-###
+<div align="center">
 
-<picture>
-   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/light-theme/tip.svg">
-  <img alt="Tip" src="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/dark-theme/tip.svg">
- </picture><br>
- 
-Questions or issues? -> [discord server](https://discord.gg/z2n3qTzQY6) | _or create an issue on github_
+[![jodeks discord - discord badge - pixel badge - pixel discord badge - jodeks datapacks - datapacks discord](https://raw.githubusercontent.com/jodeks-datapacks/Assets/refs/heads/main/badges/Discord.png)](https://discord.gg/z2n3qTzQY6)&nbsp;&nbsp;
+[![matrix - datapacks matrix - jodeks datapacks matrix](https://github.com/jodeks-datapacks/Assets/blob/main/badges/Matrix.png?raw=true)](https://matrix.to/#/#jodeks_datapacks:matrix.org)&nbsp;&nbsp;
+[![armor stand arms minecraft datapack github issues](https://github.com/jodeks-datapacks/Assets/blob/main/badges/GH_Issues.png?raw=true)](https://github.com/jodeks-datapacks/Armor-Stand-Arms/issues)&nbsp;&nbsp;
+[![jodeks datapacks kofi - jodek kofi - minecraft datapack kofi donation](https://github.com/jodeks-datapacks/Assets/blob/main/badges/Kofi.png?raw=true)](https://ko-fi.com/jodek)&nbsp;&nbsp;
+[![github sponsor jodek donation datapacks minecraft](https://github.com/jodeks-datapacks/Assets/blob/main/badges/GH_Sponsor.png?raw=true)](https://github.com/sponsors/Jodekq)
+
+</div>
 
 ## How it works
 
@@ -27,7 +24,11 @@ Questions or issues? -> [discord server](https://discord.gg/z2n3qTzQY6) | _or cr
 
 ![https://github.com/jodeks-datapacks/Assets/blob/main/gifs/leash_fences_1.gif?raw=true](https://github.com/jodeks-datapacks/Assets/blob/main/gifs/leash_fences_1.gif?raw=true)
 
-> Alwnor<sup>©</sup> tested & approved
+## Compatibility
+
+There's currently a minecraft bug (since 1.21.6) where the leash breaks if its stretched over a chunk border and a player dies within the chunk of the leashed entity (which is at the fence post you first connected the leash to)
+
+[https://report.bugs.mojang.com/servicedesk/customer/portal/2/MC-300654](https://report.bugs.mojang.com/servicedesk/customer/portal/2/MC-300654)
 
 ## Guides
 
