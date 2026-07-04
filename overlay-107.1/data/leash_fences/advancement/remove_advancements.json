@@ -1,0 +1,39 @@
+{
+  "criteria": {
+    "tick": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:value_check",
+            "value": {
+              "type": "minecraft:score",
+              "target": {
+                "type": "minecraft:fixed",
+                "name": "&leash_fences_advancements"
+              },
+              "score": "jodek.config"
+            },
+            "range": 0
+          },
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type_specific/player": {
+                "advancements": {
+                  "jodek:leash_fences": true,
+                  "jodek:root": true,
+                  "jodek:utility": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "leash_fences:remove_advancements"
+  }
+}
